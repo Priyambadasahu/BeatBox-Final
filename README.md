@@ -1,4 +1,4 @@
-# BeatBox- Music Application Final 
+# BeatBox !!
 # This repo contains the final  modified code for BeatBox MusicStreaming Project .
 # Here's a modified version of the content with a focus on the features implemented in the project:
 
@@ -6,6 +6,7 @@
 **User Interface**: Designed a dynamic and user-friendly interface using HTML, CSS, and Thymeleaf, providing a seamless experience for both admin and customer roles.
 **RESTful APIs**: Developed and integrated RESTful APIs to ensure smooth communication between the frontend and backend, facilitating efficient data retrieval and storage.
 **Tech Stack**: Java, Spring Boot, Hibernate, MySQL, JPA, Maven, HTML, CSS.
+## Here i have attached some sample images of this project
 ![Screenshot 2024-09-13 221744](https://github.com/user-attachments/assets/851e9df8-285b-49b0-b322-421815c28448)
 ![Screenshot 2024-09-13 221824](https://github.com/user-attachments/assets/e810dfb9-d859-4e16-aa47-a4c7a3c16258)
 ![Screenshot 2024-09-13 221849](https://github.com/user-attachments/assets/fd32bb7f-700a-426b-afe4-2911783ed36d)
