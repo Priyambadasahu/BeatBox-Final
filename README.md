@@ -8,7 +8,6 @@
 **Tech Stack**: Java, Spring Boot, Hibernate, MySQL, JPA, Maven, HTML, CSS.
 ## Here i have attached some sample images of this project
 ![Screenshot 2024-09-13 221744](https://github.com/user-attachments/assets/851e9df8-285b-49b0-b322-421815c28448)
-![Screenshot 2024-09-13 221824](https://github.com/user-attachments/assets/e810dfb9-d859-4e16-aa47-a4c7a3c16258)
 ![Screenshot 2024-09-13 221849](https://github.com/user-attachments/assets/fd32bb7f-700a-426b-afe4-2911783ed36d)
 ![Screenshot 2024-09-13 221933](https://github.com/user-attachments/assets/d927e4ec-a3a4-4799-9159-07c10257eee4)
 ![Screenshot 2024-09-13 221955](https://github.com/user-attachments/assets/2b444aa3-43ad-404e-ac78-33e1f4d90dc2)
